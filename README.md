@@ -1,3 +1,3 @@
 # NOUS ALLONS APPRENDRE LE HTML ET CSS AVEC DES EXEMPLES
 
-
+## le code minimal html (confère page HTML PARTIE 1)
