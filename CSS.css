@@ -62,7 +62,36 @@ larger : la taille de la police de l’élément sera plus grande que celle de s
 /*width peut etre exprimé en em et %*/
 
 
-/*font-weight*/
+/*font-weight : le poids de la police*/
+/*de valeur : normal, lihter, bold, bolder, entre 100 et 900*/
 
 
-/*font-style*/
+/*font-style : pour l'nclinaison de la police*/
+/*de valeur : normal, italic, oblic*/
+
+
+
+
+/*les proprietes concenant le texte*/
+/*text-align, text-transform, text-decoration, text-indent, text-shadow*/
+
+/*text-align : left, right, center, justify : cette propriété n'a aucun sens sur les elements de display inline*/ 
+
+/*texttransform : none, lowercase, uppercase, capitalize : permet de transformer la casse du texte*/
+
+/*text-decoration : underline, overline, line-through, underline overline / solid, double, douted, dashed, wavy*/
+
+/*text-indent : px, em, % (relativement au parent): intadention des textes*/
+
+/*texte-shadow : px px */
+/*texte-shadow : px px color*/
+/*texte-shadow : px px px color*/
+/*texte-shadow : px px px color, px px px color*/
+
+
+/*interligne et espacement*/
+/*line-height, letter-spacing, word-spacing*/
+
+/*line-height : px , em, % : permet de definir un hauteur de chaque ligne d'un texte*/
+/*letter-spacing : em : permet l'espacement entre les carataires*/
+/*word-spacing : em : permet l'espacement entre les mots*/
