@@ -108,3 +108,24 @@ larger : la taille de la police de l’élément sera plus grande que celle de s
 /* opacité : 0 à 1 */
 /*color : RGBa(0 à 255, 0 à 255, 0 à 255, 0 à 1)*/
 /*color : HSL(45, %, %, %)*/
+
+
+
+/*model de boite*/
+/*margin, border, padding, contenu (width, height), box-sizing*/
+
+/*le positionneent de boite*/
+/*display, position, float*/
+
+/*width, height : pour la modification du contenu de la boite avec des valeur comme em , px , % */
+
+/*padding (padding-top, padding-left, padding-botton, padding-right) : le padding s'ajoute au width et au height pour faire grandir l'element 
+*de deux primaires types. */
+/*border (border-width[thin, medium, thick, px, em], border-style[solid, double, dotted, dashed, groove, ridge, inset, outset],
+*border-color[tout ce qui concerne la couleur], border-radius) : qui se permettent de modifier la bordure  */
+/*border-top, border-right, border-botton, border-left : peuvent chacun prendre les style : width, style, color*/
+/*la taille de bordure modifiée par les proprietés (width et height) s'ajoute au contenu pour l'agrandir, tout comme le padding*/
+
+
+/*En cas de depassement d'enfant du parent, on peut attribuer cette propriété*/
+/*overflow : hidden ou scroll*/
