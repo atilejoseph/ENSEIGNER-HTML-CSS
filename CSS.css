@@ -95,3 +95,16 @@ larger : la taille de la police de l’élément sera plus grande que celle de s
 /*line-height : px , em, % : permet de definir un hauteur de chaque ligne d'un texte*/
 /*letter-spacing : em : permet l'espacement entre les carataires*/
 /*word-spacing : em : permet l'espacement entre les mots*/
+
+
+
+/*color et opacité*/
+/*color : nom_du_couleur, hexadecimale, RGB ou RGBa, HSL ou HSLa.*/
+
+/*color : red*/
+/*color : #FFFAFA*/
+/*color : RGB(0 à 255, 0 à 255, 0 à 255)*/
+/*color : HSL(45, %, %)*/
+/* opacité : 0 à 1 */
+/*color : RGBa(0 à 255, 0 à 255, 0 à 255, 0 à 1)*/
+/*color : HSL(45, %, %, %)*/
