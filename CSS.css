@@ -1,0 +1,68 @@
+/*l'etoile selectionne tous les elements*/
+*{
+    color : red;
+}
+
+/*LA VIRGULE PERMET DE SELECTIONNER PLUSIEURS ELEMENTS A LA FOIS*/
+h1, p{
+    color : blue;
+}
+
+/*Un element dans un autre element*/
+ol ul li{
+    background-color: aqua;
+    color : black;
+}
+
+/*enfant direct d'un element*/
+body a {
+    background-color: blueviolet;
+}
+
+/*selectionner l'element suivant directement l'autre*/
+h1 + p {
+    color: brown;
+}
+
+/*selectionner tous les elements qui suivent un autre*/
+h3 ~ p {
+    /*background-color: darkgreen;*/
+}
+.beu{
+    color: darkorange;
+    background-color: rgb(252, 249, 249);
+}
+#flash{
+    color: midnightblue;
+    background-color: rgb(252, 249, 249);
+}
+
+/*display : block, inline, none, block-item, table, inline-block, flexflex-shrink, flex-grow, flex-basis*/
+/*width  = largeur, height = hauteur,  ----  qui ne s'applique pas a un display inline*/
+
+/*POUR LES ECRITURES la police*/
+/*SELECTIONNEUR {font-family: valeur1, valeur2, ...}*/
+
+/*font-size : la taille*/
+/*xx-small : la taille de la police sera égale à la moitié de celle définie dans le navigateur*/
+/*x-small : la taille de la police sera égale à 60% de celle définie dans le navigateur*/
+/*small : la taille de la police sera égale à 80% de celle définie dans le navigateur ;
+medium : la taille de la police sera égale à celle définie dans le navigateur ;
+large : la taille de la police sera 10% plus grande que celle définie dans le navigateur ;
+x-large : la taille de la police sera 50% plus grande que celle définie dans le navigateur ;
+xx-large : la taille de la police sera deux fois plus grande que celle définie dans le navigateur.
+smaller : la taille de la police de l’élément sera plus petite que celle de son élément parent ;
+larger : la taille de la police de l’élément sera plus grande que celle de son élément parent.*/
+
+/*font-size : la taille*/
+/*px : qui designe une valeur absolue et fixe*/
+/*em, ex : est une valeur relative à la vaLeur parent*/
+/*% : est une valeur relative à la vaLeur parent*/
+/*rem : est une valeur pour palier a l'anbiguité de "em"*/
+/*width peut etre exprimé en em et %*/
+
+
+/*font-weight*/
+
+
+/*font-style*/
