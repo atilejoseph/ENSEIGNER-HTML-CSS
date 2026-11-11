@@ -112,7 +112,7 @@ larger : la taille de la police de l’élément sera plus grande que celle de s
 
 
 /*model de boite*/
-/*margin, border, padding, contenu (width, height), box-sizing*/
+/*margin, border, padding, contenu (width, height), box-sizing[content-box, border-box]*/
 
 /*le positionneent de boite*/
 /*display, position, float*/
@@ -129,3 +129,25 @@ larger : la taille de la police de l’élément sera plus grande que celle de s
 
 /*En cas de depassement d'enfant du parent, on peut attribuer cette propriété*/
 /*overflow : hidden ou scroll*/
+
+/*margin (margin-top, margin-left, margin-botton, margin-right)[px, em, %, auto, ici on aura a mettre des valeurs negatives]:
+est une marge exterieur qui ne s'ajoute pas au contenu commele padding et le border mais permet de repousser l'element des autres.*/
+
+/*box-sizing[content-box, border-box] : pour contenir l'element enfant avec tous ses bordures, marges et pading dans le parent*/
+
+/*border-radius : en px ou % POUR L4ARRONDISSEMENT DES ANGLES D'UNE BOITE*/
+/*border-radius : Y/X*/
+/*border-radius : VALEUR*/
+
+/*border-top-left-radius*/
+/*border-top-right-radius*/
+/*border-bottom-right-radius*/
+/*border-bottom-left-radius*/
+
+
+
+
+
+/*POSITIONNEMENT ET AFFICHAGE*/
+
+
