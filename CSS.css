@@ -150,4 +150,14 @@ est une marge exterieur qui ne s'ajoute pas au contenu commele padding et le bor
 
 /*POSITIONNEMENT ET AFFICHAGE*/
 
+/*display: avec valeurs */
+/*none, contents, block, flow-root, inline, inline-block, run-in, list-item, inline list-item, flex, inline-flex, table, inline-table,
+grid, inline-grid*/
+/*visibility : hidden*/
 
+
+
+/*position est utilisée conjointement avec les propriétés*[top, left, botton, right]/
+/*position : static ; • position : relative ; • position : absolute ; • position : fixed ; • position : sticky.*/
+
+/*z-index*/
